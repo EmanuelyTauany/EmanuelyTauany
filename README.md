@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emanuely 🥰! (I'm a Fullstack dev 🖱️!)</h1>
+<h1>Hi, I'm Emanuely 🥰! (I'm a Fullstack dev 💻!)</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelyTauany&theme=radical&show_icons=true)
 
