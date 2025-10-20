@@ -10,5 +10,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,react,nodejs,flutter,mysql,bootstrap,powershell,sqlite&perline=8)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,ts,figma,postgres,ruby,nextjs,tailwind)(https://skillicons.dev)]
+[![My Skills](https://skillicons.dev/icons?i=git,ts,figma,postgres,ruby,nextjs,tailwind,docker)](https://skillicons.dev)
 
