@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,c,python,java,dart,ruby)]([https://skillicons.dev])
 <h2>Frameworks, OS, SBGDs and others languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,react,nextjs,nodejs,flutter,mysql,bootstrap,powershell,sqlite,html,css,tailwind,postgres&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,react,nextjs,nodejs,flutter,mysql,bootstrap,powershell,sqlite,html,css,tailwind,postgres&perline=7)](https://skillicons.dev)
 
 <h2>Work tools</h2>
 
