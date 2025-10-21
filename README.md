@@ -7,10 +7,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelyTauany&theme=radical&hide_border=true&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>My Skills 🔥</h1>
+<h2>Programming languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,python,java,dart,latex)]([https://skillicons.dev])
+[![My Skills](https://skillicons.dev/icons?i=js,ts,c,python,java,dart,ruby)]([https://skillicons.dev])
+<h2>Frameworks, OS, SBGDs and others languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,react,nodejs,flutter,mysql,bootstrap,powershell,sqlite&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,react,nextjs,nodejs,flutter,mysql,bootstrap,powershell,sqlite,html,css,tailwind,postgres&perline=8)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,ts,figma,postgres,ruby,nextjs,tailwind,docker)](https://skillicons.dev)
+<h2>Work tools</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=git,figma,docker,latex)](https://skillicons.dev)
 
